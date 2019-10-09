@@ -1,0 +1,9 @@
+
+%%%%%%%% BASE DE DATOS %%%%%%%%
+1)Abrir XAMPP
+
+2)Crear Base de Datos con nombre "web" (en minusculas) y en cotejamiento seleccionar la opción "utf8_spanish_ci"
+
+3)Importar Script que esta en la carpeta con nombre "web.sql"
+
+4)Listo! Ya puede ver los datos previamente ingresados en el Laboratorio (2do Parcial)
